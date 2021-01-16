@@ -1,0 +1,6 @@
+hey reader,
+
+While learning Web Development, I build this BBC clone project using html and css.
+
+
+I will be sharing more such small projects.
